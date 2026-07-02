@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "instructor": "John Doe",
+    "duration": "20 hours",
+    "rating": 4.8,
+    "level": "Beginner",
+    "description": "Learn HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB by building real-world projects.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "category": "Development"
+  },
+  {
+    "id": 2,
+    "title": "React JS Masterclass",
+    "instructor": "Sarah Johnson",
+    "duration": "18 hours",
+    "rating": 4.9,
+    "level": "Intermediate",
+    "description": "Build modern React applications using Hooks, Context API, and Next.js.",
+    "image": "https://framerusercontent.com/images/N0xefN2fE6CCF4G2YhAg5exTHX8.png?width=1200&height=800",
+    "category": "Development"
+  },
+  {
+    "id": 3,
+    "title": "Python for Beginners",
+    "instructor": "Michael Brown",
+    "duration": "15 hours",
+    "rating": 4.7,
+    "level": "Beginner",
+    "description": "Start coding with Python and build automation scripts, games, and mini projects.",
+    "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935",
+    "category": "Programming"
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Design Essentials",
+    "instructor": "Emily Davis",
+    "duration": "12 hours",
+    "rating": 4.6,
+    "level": "Beginner",
+    "description": "Master design principles, wireframing, prototyping, and user experience fundamentals.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhBRqSsVOVnz-OwDJSatNX_MK1IrhCCnUyNJtJI9dWujXvhiE8_QD71dN&s=10",
+    "category": "Design"
+  },
+  {
+    "id": 5,
+    "title": "Digital Marketing Mastery",
+    "instructor": "David Wilson",
+    "duration": "16 hours",
+    "rating": 4.8,
+    "level": "Intermediate",
+    "description": "Learn SEO, social media marketing, email campaigns, and Google Ads.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+    "category": "Marketing"
+  },
+  {
+    "id": 6,
+    "title": "Data Science with Python",
+    "instructor": "Sophia Miller",
+    "duration": "24 hours",
+    "rating": 4.9,
+    "level": "Advanced",
+    "description": "Analyze data, build predictive models, and visualize insights using Python.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiTO3zNZ057hEdnzs5J9WGis-2fG9yI7nDA6lpU5Jm1g&s=10",
+    "category": "Data Science"
+  },
+  {
+    "id": 7,
+    "title": "Machine Learning A-Z",
+    "instructor": "James Anderson",
+    "duration": "30 hours",
+    "rating": 4.9,
+    "level": "Advanced",
+    "description": "Build machine learning models using Scikit-learn, TensorFlow, and real datasets.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWqaMQMiriPCCStvAkgDaN_qrt65Sa57pQRr0cQkNuuA&s=10",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "id": 8,
+    "title": "Flutter App Development",
+    "instructor": "Olivia Taylor",
+    "duration": "22 hours",
+    "rating": 4.8,
+    "level": "Intermediate",
+    "description": "Create beautiful Android and iOS apps using Flutter and Dart.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-7jYU3J4iUK-4LXTgBavKvyE3Vaq2DBpmXeM8vidJ4Q&s=10",
+    "category": "Mobile Development"
+  },
+  {
+    "id": 9,
+    "title": "Java Programming Complete Guide",
+    "instructor": "Daniel Harris",
+    "duration": "21 hours",
+    "rating": 4.7,
+    "level": "Beginner",
+    "description": "Learn Java programming from basics to object-oriented programming concepts.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpTsR2eaRGeiVIRpgo4VHWUqaeYonSP1uh1pyPgJ9gcw&s=10",
+    "category": "Programming"
+  },
+  {
+    "id": 10,
+    "title": "Cyber Security Fundamentals",
+    "instructor": "Robert Clark",
+    "duration": "19 hours",
+    "rating": 4.8,
+    "level": "Intermediate",
+    "description": "Understand ethical hacking, network security, and cybersecurity best practices.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0alpybm5SfnXs-SA4HqUAJpjM6t5dsnflisqnbJAI_j9SLl5ra_4Xcyk&s=10",
+    "category": "Cyber Security"
+  },
+  {
+    "id": 11,
+    "title": "AWS Cloud Practitioner",
+    "instructor": "Jessica Moore",
+    "duration": "14 hours",
+    "rating": 4.7,
+    "level": "Beginner",
+    "description": "Learn cloud computing concepts and AWS services for certification preparation.",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "category": "Cloud Computing"
+  },
+  {
+    "id": 12,
+    "title": "Graphic Design with Photoshop",
+    "instructor": "William Scott",
+    "duration": "17 hours",
+    "rating": 4.6,
+    "level": "Beginner",
+    "description": "Create stunning graphics, posters, banners, and social media content.",
+    "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f",
+    "category": "Design"
+  },
+  {
+    "id": 13,
+    "title": "SQL Database Masterclass",
+    "instructor": "Jennifer Lee",
+    "duration": "13 hours",
+    "rating": 4.8,
+    "level": "Intermediate",
+    "description": "Master SQL queries, joins, indexing, stored procedures, and database optimization.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-hm5kkAmsMuG2DaZ_fW-SEHYuPslQ6u0O6skwUjuiLrRow5JF4UroO1vY&s=10",
+    "category": "Database"
+  },
+  {
+    "id": 14,
+    "title": "DevOps with Docker & Kubernetes",
+    "instructor": "Christopher Young",
+    "duration": "26 hours",
+    "rating": 4.9,
+    "level": "Advanced",
+    "description": "Deploy scalable applications using Docker containers and Kubernetes clusters.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTCN0R-L6R9eOTHMrkWPwIUusVVUgng5F-dqE6GCWSyQ&s",
+    "category": "DevOps"
+  },
+  {
+    "id": 15,
+    "title": "Excel for Business Analytics",
+    "instructor": "Amanda Walker",
+    "duration": "11 hours",
+    "rating": 4.5,
+    "level": "Beginner",
+    "description": "Analyze business data using formulas, PivotTables, charts, and dashboards.",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+    "category": "Business"
+  },
+  {
+    "id": 16,
+    "title": "Node.js & Express API Development",
+    "instructor": "Matthew Hall",
+    "duration": "18 hours",
+    "rating": 4.8,
+    "level": "Intermediate",
+    "description": "Build secure REST APIs with Express, MongoDB, authentication, and JWT.",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+    "category": "Development"
+  },
+  {
+    "id": 17,
+    "title": "Artificial Intelligence Fundamentals",
+    "instructor": "Laura White",
+    "duration": "20 hours",
+    "rating": 4.7,
+    "level": "Beginner",
+    "description": "Explore AI concepts, neural networks, natural language processing, and computer vision.",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "id": 18,
+    "title": "Figma UI Design Masterclass",
+    "instructor": "Anthony Martin",
+    "duration": "15 hours",
+    "rating": 4.9,
+    "level": "Intermediate",
+    "description": "Design responsive websites and mobile apps with Figma from scratch.",
+    "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+    "category": "Design"
+  },
+  {
+    "id": 19,
+    "title": "Git & GitHub Complete Guide",
+    "instructor": "Kevin Thompson",
+    "duration": "8 hours",
+    "rating": 4.8,
+    "level": "Beginner",
+    "description": "Learn version control, branching, pull requests, collaboration, and GitHub workflows.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/250px-GitHub_Invertocat_Logo.svg.png",
+    "category": "Development"
+  },
+  {
+    "id": 20,
+    "title": "Complete Android Development with Kotlin",
+    "instructor": "Rachel Green",
+    "duration": "28 hours",
+    "rating": 4.9,
+    "level": "Advanced",
+    "description": "Build production-ready Android applications using Kotlin, Jetpack, and Firebase.",
+    "image": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb",
+    "category": "Mobile Development"
+  }
+]

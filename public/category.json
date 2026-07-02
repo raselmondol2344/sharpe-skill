@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Development",
+    "slug": "development"
+  },
+  {
+    "id": 2,
+    "name": "Programming",
+    "slug": "programming"
+  },
+  {
+    "id": 3,
+    "name": "Design",
+    "slug": "design"
+  },
+  {
+    "id": 4,
+    "name": "Marketing",
+    "slug": "marketing"
+  },
+  {
+    "id": 5,
+    "name": "Data Science",
+    "slug": "data-science"
+  },
+  {
+    "id": 6,
+    "name": "Artificial Intelligence",
+    "slug": "artificial-intelligence"
+  },
+  {
+    "id": 7,
+    "name": "Mobile Development",
+    "slug": "mobile-development"
+  },
+  {
+    "id": 8,
+    "name": "Cyber Security",
+    "slug": "cyber-security"
+  },
+  {
+    "id": 9,
+    "name": "Cloud Computing",
+    "slug": "cloud-computing"
+  },
+  {
+    "id": 10,
+    "name": "Database",
+    "slug": "database"
+  },
+  {
+    "id": 11,
+    "name": "DevOps",
+    "slug": "devops"
+  },
+  {
+    "id": 12,
+    "name": "Business",
+    "slug": "business"
+  }
+]
