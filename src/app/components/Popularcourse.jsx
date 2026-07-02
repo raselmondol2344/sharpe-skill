@@ -5,7 +5,7 @@ import PhotoCard from "./PhotoCard";
 const Popularcourse =async () => {
     const getData = await fetch("http://localhost:3000/data.json")
     const photoData= await getData.json();
-    console.log(photoData);
+    //console.log(photoData);
     return (
         <div className="max-w-7xl mx-auto ">
             <h1 className="text-center font-bold text-2xl p-5 ">Popular Course</h1>

@@ -9,32 +9,11 @@ const PhotoCard = ({photo}) => {
     //console.log(photo);
     return (
         <div>
-    {/* <Card className="w-64 border rounded-xl overflow-hidden">
-  <div className="elative w-full h-52">
-    <Image
-      src={photo.image}
-      alt={photo.title}
-      fill
-      className="rounded-xl object-cover" />
-      <Chip size='sm' className=' absolute right-2 mt-2'>{photo.category}</Chip>
-  </div>
+ 
 
 
-  <div className="card-body items-center text-center space-y-3">
-    <h2 className="card-title flex justify-start font-semibold text-lg">{photo.title}</h2>
-    <p className=' font-semibold'> <span className='font-bold'>Instructor</span>  :  {photo.instructor}</p>
-    <p className=' font-semibold'> <span className='font-bold'>Ratting</span> : {photo.rating}</p>
-    
-   
-
-  </div>
-  <Link href={'/'}>
-  <Button variant='outline' className={"w-full "}>Details</Button>
-  </Link>
-</Card> */}
-
-
-<Card className=" p-3 rounded-xl space-y-2 max-w-[260px] mx-auto overflow-hidden shadow-2xl bg-slate-200">
+<Card className=" p-3 rounded-xl space-y-2 max-w-[260px] mx-auto overflow-hidden shadow-2xl bg-slate-200
+transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
   <div className="relative w-full h-56">
     <Image
       src={photo.image}
@@ -61,7 +40,7 @@ const PhotoCard = ({photo}) => {
     </p>
   </div>
 
-  <Link href="/">
+  <Link href= {`/pages/courses/${photo.id}`}>
     <Button variant='outline' className="w-full rounded-xl border-gray-400">
       Details
     </Button>
