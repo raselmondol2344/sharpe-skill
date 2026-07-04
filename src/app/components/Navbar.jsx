@@ -70,10 +70,10 @@ const Navbar = () => {
         user?
          <>
         
-        <Button variant="danger" onClick={handleLogout}>sign out</Button>
+        
       
 
-        <Link href={'/pages/profile'}>
+        <Link href={'/pages/pfofile'}>
         <Avatar>
         <Avatar.Image
          alt="John Doe" 
@@ -81,6 +81,9 @@ const Navbar = () => {
         <Avatar.Fallback>JD</Avatar.Fallback>
       </Avatar>
         </Link>
+
+
+        <Button variant="danger" onClick={handleLogout}>sign out</Button>
         </>
         :
         <>

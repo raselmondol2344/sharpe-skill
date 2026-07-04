@@ -45,11 +45,12 @@ export default function HeroSection() {
           <div className="mt-10">
            <Link href={'/pages/courses'}>
             <Button
+            variant="outline"
             
               size="lg"
               radius="md"
-              color="primary"
-              className="h-14 px-10 text-lg font-semibold"
+              
+              className="h-14 px-10 text-lg font-semibold text-white bg-none"
             >
               Browse Courses
             </Button>

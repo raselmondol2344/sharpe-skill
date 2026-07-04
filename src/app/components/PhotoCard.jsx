@@ -12,8 +12,8 @@ const PhotoCard = ({photo}) => {
  
 
 
-<Card className=" p-3 rounded-xl space-y-2 max-w-[260px] mx-auto overflow-hidden shadow-2xl bg-slate-200
-transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
+<Card className=" p-3 rounded-xl space-y-2 max-w-[260px] mx-auto  overflow-hidden shadow-2xl shadow-slate-400 bg-slate-200
+transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl ">
   <div className="relative w-full h-56">
     <Image
       src={photo.image}

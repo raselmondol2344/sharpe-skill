@@ -29,10 +29,10 @@ const stats = [
 
 const Starts = () => {
   return (
-    <section className="relative mt-20 overflow-hidden rounded-3xl bg-[#08184d] py-20 max-w-7xl mx-auto">
+    <section className=" relative mt-20 overflow-hidden rounded-3xl bg-[#08184d] py-20 max-w-7xl mx-auto">
       {/* Grid Background */}
       <div
-        className="absolute inset-0 opacity-10"
+        className="absolute inset-0 opacity-10 aura " 
         style={{
           backgroundImage: `
             linear-gradient(to right, white 1px, transparent 1px),
